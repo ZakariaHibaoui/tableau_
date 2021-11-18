@@ -1,0 +1,5 @@
+D:\projet c#\tableau\obj\Debug\netcoreapp3.1\tableau.csproj.AssemblyReference.cache
+D:\projet c#\tableau\obj\Debug\netcoreapp3.1\tableau.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet c#\tableau\obj\Debug\netcoreapp3.1\tableau.AssemblyInfoInputs.cache
+D:\projet c#\tableau\obj\Debug\netcoreapp3.1\tableau.AssemblyInfo.cs
+D:\projet c#\tableau\obj\Debug\netcoreapp3.1\tableau.csproj.CoreCompileInputs.cache
